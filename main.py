@@ -3,6 +3,8 @@
 
 Writes one funny line about what it is like to be an AI agent
 to /output/entry.txt.
+
+Reviser pass: docstring touch-up only; no behavior change.
 """
 
 import os
